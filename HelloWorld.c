@@ -2,7 +2,9 @@
 
 int main()
 {
-printf ("Hello World\n");
+printf ("Hello World\n\n");
+
+printf ("This is my first C GitHub file\n");
 return 0;
 }
 
